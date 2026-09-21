@@ -1,6 +1,6 @@
 -- ============================================================
 --  Catálogo estilo Netflix — Esquema de base de datos (Supabase)
---  Pega TODO este archivo en Supabase → SQL Editor → Run.
+--  Pega TODO estae archivo en Supabase → SQL Editor → Run.
 --  Es idempotente: puedes ejecutarlo varias veces sin romper nada.
 -- ============================================================
 
