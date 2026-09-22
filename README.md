@@ -134,7 +134,6 @@ Este proyecto se construyó con **Claude (Claude Code)**. Prompts principales:
 - Se le pidió modelar las tablas con relación N:M y escribir una función RPC que devolviera
   el catálogo de Home en una sola llamada, evitando N+1.
 
-> Todo el código fue revisado y comprendido; puedo explicar cada decisión.
 
 ## Qué haría a continuación con más tiempo
 
